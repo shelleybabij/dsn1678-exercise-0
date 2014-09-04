@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+html {
+	font: normal 100%/1.5 "open sans", sans-serif;
+  background-color:#e9e9e9;
+  margin: 4rem;
+}
+
+body {
+	background-color:#fff;
+	border-radius:10px;
+	border:1px solid #d1d1d1;
+	padding-left:2rem;
+	padding-right:2rem;
+}
+
+h1 {
+	color:#a22544;
+}
+
+img {
+	width:100%;
+}
+
+figcaption {
+	color:#666666;
+}
+
+.caption {
+	background-color:#fcfcfc;
+}
+
+dl {
+	overflow:hidden;
+}
+
+dt {
+	float:left;
+	clear:left;
+	width: 8em;
+}
+
+dd {
+	float:left;
+	margin:0;
+	padding:0;
+}
